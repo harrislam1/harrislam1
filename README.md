@@ -4,6 +4,8 @@ I'm a teacher turned data practitioner.
 
 Most of my data work involves Python and SQL.
 
+I have helped other people with their C and R assignments as well.
+
 I use CodeWars and Project Euler to improve my coding skills.
 
 I'm looking to collaborate on data engineering and
